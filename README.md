@@ -4,7 +4,7 @@
 The purpose of the class project is to take a set of data that had been split 
 apart for analysis into six parts and combine it into a single table. Using dplyr and tidyr tools. The original data __UCI HAR Dataset__ is located here 
 
-```https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+```{r}https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ```
 
 and is comprised of measures collected from 30 subjects performing six different activities.  It is split into "test" and "train" groups.  The two files (test and train) each have three text files, with the same three tables.  Additionally the __UCI HAR Dataset__ provides two text files containing variable names (features.txt) and a code table (activity_labels).
