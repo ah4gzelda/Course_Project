@@ -67,5 +67,5 @@ The variables come from the  "subset" data.frame.  For each of the 86 features t
 
  * activity - see: "desc_data"; 1 observation for each of 6 activities for each subject
 
- * measures - same as in "subset"
-   value is the mean of all observations of an activity for a single subject.
+ * measures - same as in "subset"; 
+   the value is the mean() of all observations of an activity (ca. 30) for a single subject.
