@@ -1,5 +1,3 @@
-<p><markdown>
-
 ##Course_Project Code Book##
 
 ###Data###
@@ -71,4 +69,3 @@ The variables come from the  "subset" data.frame.  For each of the 86 features t
 
  * measures - same as in "subset"
    value is the mean of all observations of an activity for a single subject.
-</markdown></p>
